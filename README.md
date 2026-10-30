@@ -3,7 +3,7 @@
 ![stair-thumb](https://github.com/user-attachments/assets/5d8f6943-a175-486e-9cc5-ba828dae7189)
 
 **Author:** The French Monkey (TFMSTYLE)  
-**Version:** 1.0.0  
+**Version:** 1.0.1  
 
 ---
 
@@ -94,3 +94,21 @@ Applies all current values from the **Stair Generator** panel and rebuilds the m
 - **L-Shaped stairs** generate a landing platform at the specified **Turn at Step** position.  
 - Generated stairs are non-destructive and can be modified parametrically until converted to a mesh.  
 - Works seamlessly with Blender’s geometry nodes or array modifiers for extended procedural control.
+
+---
+
+## Install
+
+Needs Blender 4.2 or later. Get the zip from [tfmstyle.com](https://tfmstyle.com), then in Blender open Edit > Preferences > Get Extensions, open the menu at the top right and pick Install from Disk.
+
+To build the zip yourself, run this in the repo folder:
+
+```bash
+blender --command extension build
+```
+
+---
+
+## License
+
+GPL 3.0 or later. See [LICENSE](LICENSE).

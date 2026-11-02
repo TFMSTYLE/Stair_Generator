@@ -4,7 +4,7 @@
 bl_info = {
     "name": "Stair",
     "author": "The French Monkey",
-    "version": (1, 0, 2),
+    "version": (1, 0, 3),
     "blender": (4, 2, 0),
     "location": "View3D > Sidebar > Stair",
     "description": "Generate parametric stairs",

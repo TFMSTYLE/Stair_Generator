@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "tfmstyle_stair"
-version = "1.0.2"
+version = "1.0.3"
 name = "TFMSTYLE - Stair"
 tagline = "Generate parametric stairs"
 maintainer = "The French Monkey"
